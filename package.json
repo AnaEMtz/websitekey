@@ -1,0 +1,8 @@
+{
+  "name": "site-chat-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI chat widget for a website, answering from your own database",
+  "engines": { "node": ">=18" }
+}
